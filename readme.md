@@ -104,6 +104,7 @@ Free
 [![](screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
 
 ### MinimalClock
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Minimalist native macOS corner Now Playing companion.
 
 > Simple and elegant screensaver for MacOS that displays the time.
 
